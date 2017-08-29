@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 /**
- * 
+ *Description: This project allows the user to input their gpa, student ID, and 
+ * the amount of years they have attended a college.
  * @author humzasalim
  *
  */
